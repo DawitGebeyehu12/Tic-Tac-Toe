@@ -26,7 +26,7 @@ Installation
     
  2. Navigate to the project directory:
 
-               cd tic-tac-toe
+               cd my-app
                  
   3. Install the dependencies:
 
